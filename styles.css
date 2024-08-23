@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #fdbb2d;
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+
+#inputValueContainer{
+    text-align: center;
+}
+
+input{
+    padding: 5px;
+}
+
+#generator{   
+    padding: 8px;
+    color: #03A9F4;
+}
+
+#result{
+    text-align: center;
+}
+
+#result-container{
+    
+    font-size: 32px;
+    border: 10px solid #ff2222;
+    width: 35%;
+    margin: auto;
+    text-align: center;
+    font-family: monospace;
+}
